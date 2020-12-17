@@ -34,7 +34,7 @@ def quicksort(vet, left, right):
     return vet
 
 def main():
-    vet = [6, 3, 4, 5, 2, 7, 1, 9, 8, 0]
+    vet = [6, 3, 4, 5, 2, 7, 1, 9, 8, 0, 10]
 
     print(quicksort(vet, 0, len(vet) - 1))
 
