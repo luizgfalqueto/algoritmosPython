@@ -1,3 +1,7 @@
+# Autor: Luiz Gustavo Falqueto Baptista
+# Data: 27/01/2021
+# Objetivo: Gerar o extenso de um numero (Valor máximo: 999 quintilhões)
+
 unidades = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove')
 teens = ('onze', 'doze', 'treze', 'quatorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove')
 dezenas = ('dez', 'vinte', 'trinta', 'quarenta', 'cinquenta', 'sessenta', 'setenta', 'oitenta', 'noventa')
